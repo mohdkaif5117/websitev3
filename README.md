@@ -1,5 +1,12 @@
 My personal website. Live version is [here](https://mohammadkaif.com).
 
+This resource is all about creating and hosting your personal website or portfolio online. It is an attractive and amazing way to represent your professional skills and tell about your interest. You can include this on your resume, professional profiles, social media and other places. It is a just a website which tells all about you and your worklife. 
+
+This is an amazing resource for the students, bloggers, and job seekers. 
+
+Go check out the link to my website first for a better understanding: 
+
+My website is [here](https://mohammadkaif.com)
 
 If you want to create your personal website here is the guide for you:
 
